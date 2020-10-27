@@ -1,4 +1,4 @@
-##Smart Money
+#Smart Money
 
 Financial control application
 
