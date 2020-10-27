@@ -1,4 +1,4 @@
-#Smart Money
+<h1>Smart Money</h1>
 
 Financial control application
 
